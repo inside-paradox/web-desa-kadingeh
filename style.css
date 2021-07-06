@@ -14,48 +14,41 @@ html {
 
 .mountain1{
     bottom: 2px;
-    width: 100%;
     right: 0;
     z-index: 19;
 }
 
 .mountain2{
-    width: 100%;
     bottom: 3px;
     right: 0;
     z-index: 18;
 }
 
 .mountain3{
-    width: 100%;
     bottom: 2px;
     right: 0;
     z-index: 17;
 }
 
 .mountain4{
-    width: 100%;
     bottom: 2px;
     right: 0;
     z-index: 16;
 }
 
 .mountain5{
-    width: 100%;
     bottom: 2px;
     right: 0;
     z-index: 15;
 }
 
 .mountain6{
-    width: 100%;
     bottom: 2px;
     right: 0;
     z-index: 14;
 }
 
 .sky{
-    width: 100%;
     bottom: 2px;
     right: 0;
     z-index: 13;
